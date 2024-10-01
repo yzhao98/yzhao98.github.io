@@ -1,0 +1,12 @@
+{
+  "name": "yzhao98.github.io",
+  "version": "1.0.0",
+  "description": "brew install node npm install",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "bundle exec jekyll serve"
+  },
+  "author": "",
+  "license": "ISC"
+}
