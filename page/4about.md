@@ -15,7 +15,7 @@ type: home
 
 <br>
 
-- **Position**: Ph.D. Candidate in Data Science (Applied Mathematics)  
+- **Position**: Ph.D. Candidate in Data Science (Mathematics)  
 - **Institution**: Center for Data Science, Peking University, Beijing, China  
 - **Office**: Jingyuan Courtyard No. 6, Room 222  
 - **Email**: [yuezhao.math@gmail.com](mailto:yuezhao.math@gmail.com)
@@ -25,7 +25,7 @@ I am open to collaboration in deep learning and scientific computing. Feel free 
 ## Education
 
 
-- **09/2020–Present**, Ph.D. Candidate in Data Science (Applied Mathematics), Peking University, Center for Data Science
+- **09/2020–Present**, Ph.D. Candidate in Data Science (Mathematics), Peking University, Center for Data Science
 
 - **04/2024–09/2024**, Visiting Scholar in Statistics, University of Pennsylvania, Wharton School
 
@@ -53,6 +53,7 @@ I am open to collaboration in deep learning and scientific computing. Feel free 
 
 ## Internship
 
+- **11/2024–02/2025**, Intern, Machine Learning, Institute for Advanced Algorithms Research, Shanghai
 - **06/2020–11/2020**, Intern, Machine Learning, Baidu Map, Baidu Inc.
 - **11/2019–05/2020**, Intern, Computer Vision, AI Lab, ByteDance Inc.
 - **04/2018–10/2019**, Research Assistant, Institute of Automation, Chinese Academy of Sciences
