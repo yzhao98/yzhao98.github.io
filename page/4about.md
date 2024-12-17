@@ -53,7 +53,7 @@ I am open to collaboration in deep learning and scientific computing. Feel free 
 
 ## Internship
 
-- **11/2024–02/2025**, Intern, Machine Learning, Institute for Advanced Algorithms Research, Shanghai
+- **11/2024–02/2025**, Intern, Industrial Control, Institute for Advanced Algorithms Research, Shanghai
 - **06/2020–11/2020**, Intern, Machine Learning, Baidu Map, Baidu Inc.
 - **11/2019–05/2020**, Intern, Computer Vision, AI Lab, ByteDance Inc.
 - **04/2018–10/2019**, Research Assistant, Institute of Automation, Chinese Academy of Sciences
